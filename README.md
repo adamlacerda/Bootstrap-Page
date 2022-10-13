@@ -30,4 +30,4 @@ Então fiz um footer também com bootstrap. E ficou muito bom!
 
 Obs.: Imagens meramente ilustrativas.
 
-<p><img src="Bootstrap/img/main.png"><p>
+ file:///home/alan/Imagens/Capturas%20de%20tela/main.png

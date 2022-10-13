@@ -30,4 +30,5 @@ Então fiz um footer também com bootstrap. E ficou muito bom!
 
 Obs.: Imagens meramente ilustrativas.
 
- file:///home/alan/Imagens/Capturas%20de%20tela/main.png
+![image](https://user-images.githubusercontent.com/107153882/195605543-946ad976-bcc2-4367-9276-64d5b4e0a37d.png)
+

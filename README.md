@@ -28,7 +28,7 @@ O projeto inicial contém:
 
 Navbar, Quem Somos, Parceiros e Serviços. E era uma outra empresa que seria representada.
 
-Porém, como gostei mmuito do projeto, criei uma empresa fictícia e uma logo.
+Porém, como gostei muito do projeto, criei uma empresa fictícia e uma logo.
 
 Então fiz um footer também com bootstrap.
 

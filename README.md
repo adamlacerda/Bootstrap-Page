@@ -10,7 +10,11 @@ Navbar, About Us, Partners and Services. And it was another company that would b
 
 However, as I really liked the project, I created a fictitious company and a logo.
 
-So I made a footer also with bootstrap. Ad was pretty good!
+So I made a footer also with bootstrap.
+
+And since I'm never satisfied, I added a button-to-top using JavaScript.
+
+And was pretty good!
 
 Note: Images are for illustrative purposes only.
 
@@ -26,7 +30,11 @@ Navbar, Quem Somos, Parceiros e Serviços. E era uma outra empresa que seria rep
 
 Porém, como gostei mmuito do projeto, criei uma empresa fictícia e uma logo.
 
-Então fiz um footer também com bootstrap. E ficou muito bom!
+Então fiz um footer também com bootstrap.
+
+E como nunca estou satisfeito, acrescentei um button-to-top  com JavaScript.
+
+E ficou muito bom!
 
 Obs.: Imagens meramente ilustrativas.
 

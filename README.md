@@ -40,6 +40,6 @@ Obs.: Imagens meramente ilustrativas.
 
 ![image](https://user-images.githubusercontent.com/107153882/195605543-946ad976-bcc2-4367-9276-64d5b4e0a37d.png)
 ![image](https://user-images.githubusercontent.com/107153882/195605765-c9724290-e433-4168-8cff-4692a1f22913.png)
-![image](https://user-images.githubusercontent.com/107153882/195605887-7a33d877-3a76-4dc2-9727-b905acb99c83.png)
+![image](https://user-images.githubusercontent.com/107153882/195671853-46c8ec87-0d6b-478a-b128-98393b900a91.png)
 
 

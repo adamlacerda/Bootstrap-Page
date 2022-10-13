@@ -40,11 +40,14 @@ body {
 }
 
 .bg-footer {
-    background-color: black;
+    background-color: rgb(122, 122, 122);
     color: #fff;
 }
 
-footer > p {
-    margin: 0;
-    
+.social {
+    margin-left: 50px;
+    margin-right: 30px;
+}
+.follow{
+    margin-top: 15px;
 }

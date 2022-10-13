@@ -1,6 +1,7 @@
 body {
     font: 20px Arial, sans-serif;
 }
+
 .navbar {
     background-color: #067d9b80;
 }
@@ -8,7 +9,7 @@ body {
 .logo {
     max-width: 100px;
     margin-left: 40px;
-    
+
 }
 
 .quem-somos {
@@ -21,7 +22,7 @@ body {
     padding-bottom: 30px;
 }
 
-.team{
+.team {
     width: 400px;
     height: 400px;
 }
@@ -32,12 +33,23 @@ body {
 }
 
 .parceiros {
-    background-color:#D6EAF8;
+    background-color: #D6EAF8;
 }
 
 .img1 {
     width: 400px;
 }
+
+#btn-back-to-top {
+    background-color: #2874A6;
+    border: 0;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+}
+
+
 
 .bg-footer {
     background-color: rgb(122, 122, 122);
@@ -48,6 +60,14 @@ body {
     margin-left: 50px;
     margin-right: 30px;
 }
-.follow{
+
+.follow {
     margin-top: 15px;
+}
+
+@media(max-width: 992px) {
+    .navbar {
+        font-size: 15px;
+        padding-right: 10px;
+    }
 }
